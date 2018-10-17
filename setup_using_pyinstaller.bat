@@ -1,0 +1,1 @@
+pyinstaller pysearch_gui.py --onefile --clean --noconsole -i search.ico
